@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="oncreate">1. OnCreate\n2. OnStart\n3. OnResume\n4. OnPause\n5. OnStop\n6. OnDestroy</string>
+</resources>
